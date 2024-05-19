@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Wire_Pad_1x2_2.54P")(type "KiCad")(uri "${KIPRJMOD}/Wire_Pad_1x2_2.54P.kicad_sym")(options "")(descr ""))
+)
